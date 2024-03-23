@@ -1,4 +1,4 @@
-# myportfolio
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -80,8 +80,8 @@
   <section id="contact" class="container">
     <h2>Contact Me</h2>
     <p>If you're interested in my training services or need assistance with Azure cloud administration, feel free to contact me:</p>
-    <p>Email: example@example.com</p>
-    <p>Phone: 123-456-7890</p>
+    <p>Email: samantaray.niharranjan@gmail.com</p>
+    <p>Phone:+91 7008303645</p>
   </section>
 
 </body>
