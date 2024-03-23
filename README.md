@@ -1,1 +1,88 @@
 # myportfolio
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Trainer & Azure Cloud Administrator Portfolio</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f0f0f0;
+    }
+    header {
+      background-color: #333;
+      color: #fff;
+      padding: 20px;
+      text-align: center;
+    }
+    nav {
+      background-color: #444;
+      padding: 10px;
+      text-align: center;
+    }
+    nav a {
+      color: #fff;
+      text-decoration: none;
+      padding: 10px 20px;
+    }
+    nav a:hover {
+      background-color: #666;
+    }
+    section {
+      padding: 20px;
+    }
+    h1, h2 {
+      color: #333;
+    }
+    .container {
+      max-width: 800px;
+      margin: 0 auto;
+    }
+    .project {
+      background-color: #fff;
+      padding: 20px;
+      margin-bottom: 20px;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Trainer & Azure Cloud Administrator Portfolio</h1>
+  </header>
+
+  <nav>
+    <a href="#about">About</a>
+    <a href="#projects">Projects</a>
+    <a href="#contact">Contact</a>
+  </nav>
+
+  <section id="about" class="container">
+    <h2>About Me</h2>
+    <p>Hello, I am a professional trainer and Azure Cloud Administrator with expertise in delivering comprehensive training programs and managing cloud infrastructure on the Azure platform.</p>
+  </section>
+
+  <section id="projects" class="container">
+    <h2>Projects</h2>
+    <div class="project">
+      <h3>Training Program: Introduction to Azure</h3>
+      <p>This training program provides a comprehensive introduction to Azure cloud services, covering topics such as virtual machines, storage, networking, and security.</p>
+    </div>
+    <div class="project">
+      <h3>Azure Infrastructure Management</h3>
+      <p>I have successfully managed Azure infrastructure for multiple clients, ensuring high availability, scalability, and security of their cloud environments.</p>
+    </div>
+  </section>
+
+  <section id="contact" class="container">
+    <h2>Contact Me</h2>
+    <p>If you're interested in my training services or need assistance with Azure cloud administration, feel free to contact me:</p>
+    <p>Email: example@example.com</p>
+    <p>Phone: 123-456-7890</p>
+  </section>
+
+</body>
+</html>
